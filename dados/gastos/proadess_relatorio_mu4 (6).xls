@@ -1,0 +1,48 @@
+<div align="center">
+		
+		
+<!--<div style="overflow:auto;height:350px; width:760px">-->
+<table class="ficha">
+        <tr class='ficha'><td class="ficha_sup" colspan="22">Gasto público total em saúde por habitante (em R$) - Municípios da UF: Distrito Federal</td></tr>
+
+<tr class='ficha'><td class="ficha_sup">Abrangências geográficas</td>
+            <td class="ficha_sup">2000</td>
+            <td class="ficha_sup">2001</td>
+            <td class="ficha_sup">2002</td>
+            <td class="ficha_sup">2003</td>
+            <td class="ficha_sup">2004</td>
+            <td class="ficha_sup">2005</td>
+            <td class="ficha_sup">2006</td>
+            <td class="ficha_sup">2007</td>
+            <td class="ficha_sup">2008</td>
+            <td class="ficha_sup">2009</td>
+            <td class="ficha_sup">2010</td>
+            <td class="ficha_sup">2011</td>
+            <td class="ficha_sup">2012</td>
+            <td class="ficha_sup">2013</td>
+            <td class="ficha_sup">2014</td>
+            <td class="ficha_sup">2015</td>
+            <td class="ficha_sup">2016</td>
+            <td class="ficha_sup">2017</td>
+            <td class="ficha_sup">2018</td>
+            <td class="ficha_sup">2019</td>
+            <td class="ficha_sup">2020</td>
+                </tr>
+            <tr class='ficha'>
+        <td class='ficha_inf'>Brasília</td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td><td class='ficha_sub'><font color=#670095>**</font></td>    </tr>
+    </table>
+<div align='left' style = 'font: 14px Times, Times New Roman, serif;font-style: italic;'><font color=#670095>**</font> - Brasília é uma divisão administrativa distinta de um município e não possui indicadores de condução e financiamento próprios.</div><br /><!--</div>-->
+
+            <div align="center">
+                <!--<img src="grafico_regional_5.php?codigo=K5100000000000000004&regional=" />
+                <object type="image/svg+xml" data="graf_matrizvi.php?codigo=K5100000000000000004&vizinhos=&uf=&nmunic="  width="900" height="640" ></object>-->
+
+        </div>
+            <br />
+    <div align="center">
+    </div>
+
+<p>PROADESS - Projeto de Avaliação do Desempenho do Sistema de Saúde<br />URL: https://www.proadess.icict.fiocruz.br/</p>
+<!--
+<a class="relat" href="relatorio_reg.php?cod=K51&municipio=&consulta=1&cobertura=&pnad=&sus_b=">Salvar em xls</a>-->
+</div>

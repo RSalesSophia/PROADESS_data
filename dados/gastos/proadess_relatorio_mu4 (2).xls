@@ -1,0 +1,78 @@
+<div align="center">
+		
+		
+<!--<div style="overflow:auto;height:350px; width:760px">-->
+<table class="ficha">
+        <tr class='ficha'><td class="ficha_sup" colspan="22">Gasto público total em saúde por habitante (em R$) - Municípios da UF: Amapá</td></tr>
+
+<tr class='ficha'><td class="ficha_sup">Abrangências geográficas</td>
+            <td class="ficha_sup">2000</td>
+            <td class="ficha_sup">2001</td>
+            <td class="ficha_sup">2002</td>
+            <td class="ficha_sup">2003</td>
+            <td class="ficha_sup">2004</td>
+            <td class="ficha_sup">2005</td>
+            <td class="ficha_sup">2006</td>
+            <td class="ficha_sup">2007</td>
+            <td class="ficha_sup">2008</td>
+            <td class="ficha_sup">2009</td>
+            <td class="ficha_sup">2010</td>
+            <td class="ficha_sup">2011</td>
+            <td class="ficha_sup">2012</td>
+            <td class="ficha_sup">2013</td>
+            <td class="ficha_sup">2014</td>
+            <td class="ficha_sup">2015</td>
+            <td class="ficha_sup">2016</td>
+            <td class="ficha_sup">2017</td>
+            <td class="ficha_sup">2018</td>
+            <td class="ficha_sup">2019</td>
+            <td class="ficha_sup">2020</td>
+                </tr>
+            <tr class='ficha'>
+        <td class='ficha_inf'>Serra do Navio</td><td class='ficha_sub'>46,96</td><td class='ficha_sub'>62,00</td><td class='ficha_sub'>168,33</td><td class='ficha_sub'>161,27</td><td class='ficha_sub'>181,21</td><td class='ficha_sub'>179,61</td><td class='ficha_sub'>216,04</td><td class='ficha_sub'>301,89</td><td class='ficha_sub'>334,12</td><td class='ficha_sub'>347,76</td><td class='ficha_sub'>403,29</td><td class='ficha_sub'>399,56</td><td class='ficha_sub'>452,40</td><td class='ficha_sub'>444,52</td><td class='ficha_sub'>580,40</td><td class='ficha_sub'>406,59</td><td class='ficha_sub'>430,38</td><td class='ficha_sub'>456,22</td><td class='ficha_sub'>590,90</td><td class='ficha_sub'>766,17</td><td class='ficha_sub'>1035,49</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Amapá</td><td class='ficha_sub'>15,83</td><td class='ficha_sub'>34,90</td><td class='ficha_sub'>134,75</td><td class='ficha_sub'>66,96</td><td class='ficha_sub'>66,24</td><td class='ficha_sub'>92,95</td><td class='ficha_sub'>132,59</td><td class='ficha_sub'>145,21</td><td class='ficha_sub'>184,66</td><td class='ficha_sub'>200,72</td><td class='ficha_sub'>230,08</td><td class='ficha_sub'>257,05</td><td class='ficha_sub'>303,64</td><td class='ficha_sub'>307,93</td><td class='ficha_sub'>437,29</td><td class='ficha_sub'>327,25</td><td class='ficha_sub'>471,27</td><td class='ficha_sub'>324,56</td><td class='ficha_sub'>538,92</td><td class='ficha_sub'>577,08</td><td class='ficha_sub'>1131,58</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pedra Branca do Amapari</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>18,10</td><td class='ficha_sub'>77,91</td><td class='ficha_sub'>109,00</td><td class='ficha_sub'>128,20</td><td class='ficha_sub'>220,43</td><td class='ficha_sub'>220,35</td><td class='ficha_sub'>342,98</td><td class='ficha_sub'>376,76</td><td class='ficha_sub'>398,88</td><td class='ficha_sub'>505,66</td><td class='ficha_sub'>546,78</td><td class='ficha_sub'>778,24</td><td class='ficha_sub'>775,99</td><td class='ficha_sub'>1179,46</td><td class='ficha_sub'>649,58</td><td class='ficha_sub'>598,94</td><td class='ficha_sub'>549,15</td><td class='ficha_sub'>670,86</td><td class='ficha_sub'>1045,72</td><td class='ficha_sub'>1042,59</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Calçoene</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>8,41</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>75,02</td><td class='ficha_sub'>166,26</td><td class='ficha_sub'>133,03</td><td class='ficha_sub'>164,01</td><td class='ficha_sub'>186,07</td><td class='ficha_sub'>210,09</td><td class='ficha_sub'>254,35</td><td class='ficha_sub'>315,14</td><td class='ficha_sub'>322,59</td><td class='ficha_sub'>268,12</td><td class='ficha_sub'>253,28</td><td class='ficha_sub'>273,84</td><td class='ficha_sub'>382,41</td><td class='ficha_sub'>442,77</td><td class='ficha_sub'>415,87</td><td class='ficha_sub'>694,25</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cutias</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>41,87</td><td class='ficha_sub'>51,99</td><td class='ficha_sub'>45,39</td><td class='ficha_sub'>115,77</td><td class='ficha_sub'>149,49</td><td class='ficha_sub'>192,61</td><td class='ficha_sub'>218,03</td><td class='ficha_sub'>244,98</td><td class='ficha_sub'>194,99</td><td class='ficha_sub'>299,80</td><td class='ficha_sub'>342,36</td><td class='ficha_sub'>401,89</td><td class='ficha_sub'>506,67</td><td class='ficha_sub'>431,74</td><td class='ficha_sub'>303,83</td><td class='ficha_sub'>674,73</td><td class='ficha_sub'>436,57</td><td class='ficha_sub'>572,15</td><td class='ficha_sub'>506,87</td><td class='ficha_sub'>468,27</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Ferreira Gomes</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>68,25</td><td class='ficha_sub'>56,23</td><td class='ficha_sub'>55,62</td><td class='ficha_sub'>153,52</td><td class='ficha_sub'>187,00</td><td class='ficha_sub'>141,31</td><td class='ficha_sub'>201,66</td><td class='ficha_sub'>283,64</td><td class='ficha_sub'>247,83</td><td class='ficha_sub'>306,84</td><td class='ficha_sub'>368,61</td><td class='ficha_sub'>537,31</td><td class='ficha_sub'>597,50</td><td class='ficha_sub'>787,24</td><td class='ficha_sub'>684,57</td><td class='ficha_sub'>557,80</td><td class='ficha_sub'>555,74</td><td class='ficha_sub'>807,89</td><td class='ficha_sub'>999,38</td><td class='ficha_sub'>1293,37</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Itaubal</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>62,00</td><td class='ficha_sub'>108,71</td><td class='ficha_sub'>103,84</td><td class='ficha_sub'>144,01</td><td class='ficha_sub'>215,25</td><td class='ficha_sub'>200,56</td><td class='ficha_sub'>354,95</td><td class='ficha_sub'>429,40</td><td class='ficha_sub'>451,42</td><td class='ficha_sub'>451,19</td><td class='ficha_sub'>487,54</td><td class='ficha_sub'>467,90</td><td class='ficha_sub'>341,80</td><td class='ficha_sub'>349,45</td><td class='ficha_sub'>386,48</td><td class='ficha_sub'>454,49</td><td class='ficha_sub'>446,95</td><td class='ficha_sub'>693,19</td><td class='ficha_sub'>692,79</td><td class='ficha_sub'>1174,06</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Laranjal do Jari</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>31,86</td><td class='ficha_sub'>57,54</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>87,90</td><td class='ficha_sub'>107,80</td><td class='ficha_sub'>113,77</td><td class='ficha_sub'>126,26</td><td class='ficha_sub'>141,43</td><td class='ficha_sub'>176,41</td><td class='ficha_sub'>209,00</td><td class='ficha_sub'>221,12</td><td class='ficha_sub'>213,55</td><td class='ficha_sub'>271,41</td><td class='ficha_sub'>268,79</td><td class='ficha_sub'>259,74</td><td class='ficha_sub'>318,28</td><td class='ficha_sub'>449,21</td><td class='ficha_sub'>432,08</td><td class='ficha_sub'>556,95</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Macapá</td><td class='ficha_sub'>26,61</td><td class='ficha_sub'>52,98</td><td class='ficha_sub'>69,80</td><td class='ficha_sub'>83,87</td><td class='ficha_sub'>95,44</td><td class='ficha_sub'>96,99</td><td class='ficha_sub'>118,20</td><td class='ficha_sub'>153,20</td><td class='ficha_sub'>192,45</td><td class='ficha_sub'>189,90</td><td class='ficha_sub'>234,72</td><td class='ficha_sub'>231,93</td><td class='ficha_sub'>238,96</td><td class='ficha_sub'>212,10</td><td class='ficha_sub'>232,43</td><td class='ficha_sub'>291,46</td><td class='ficha_sub'>303,22</td><td class='ficha_sub'>285,38</td><td class='ficha_sub'>434,15</td><td class='ficha_sub'>329,51</td><td class='ficha_sub'>480,56</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Mazagão</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>32,44</td><td class='ficha_sub'>44,21</td><td class='ficha_sub'>67,20</td><td class='ficha_sub'>106,66</td><td class='ficha_sub'>126,68</td><td class='ficha_sub'>146,31</td><td class='ficha_sub'>172,32</td><td class='ficha_sub'>219,09</td><td class='ficha_sub'>264,34</td><td class='ficha_sub'>149,18</td><td class='ficha_sub'>257,83</td><td class='ficha_sub'>326,38</td><td class='ficha_sub'>280,94</td><td class='ficha_sub'>375,10</td><td class='ficha_sub'>271,64</td><td class='ficha_sub'>353,67</td><td class='ficha_sub'>310,09</td><td class='ficha_sub'>378,97</td><td class='ficha_sub'>610,14</td><td class='ficha_sub'>748,68</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Oiapoque</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>34,05</td><td class='ficha_sub'>49,74</td><td class='ficha_sub'>66,64</td><td class='ficha_sub'>98,39</td><td class='ficha_sub'>122,79</td><td class='ficha_sub'>126,05</td><td class='ficha_sub'>149,19</td><td class='ficha_sub'>165,83</td><td class='ficha_sub'>193,70</td><td class='ficha_sub'>209,66</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>215,54</td><td class='ficha_sub'>199,94</td><td class='ficha_sub'>170,22</td><td class='ficha_sub'>215,76</td><td class='ficha_sub'>297,99</td><td class='ficha_sub'>371,74</td><td class='ficha_sub'>258,56</td><td class='ficha_sub'>534,85</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Porto Grande</td><td class='ficha_sub'>49,22</td><td class='ficha_sub'>46,83</td><td class='ficha_sub'>46,17</td><td class='ficha_sub'>106,55</td><td class='ficha_sub'>106,10</td><td class='ficha_sub'>123,95</td><td class='ficha_sub'>145,17</td><td class='ficha_sub'>197,30</td><td class='ficha_sub'>250,43</td><td class='ficha_sub'>251,50</td><td class='ficha_sub'>241,53</td><td class='ficha_sub'>249,41</td><td class='ficha_sub'>387,57</td><td class='ficha_sub'>301,60</td><td class='ficha_sub'>366,97</td><td class='ficha_sub'>384,11</td><td class='ficha_sub'>491,63</td><td class='ficha_sub'>345,92</td><td class='ficha_sub'>525,07</td><td class='ficha_sub'>593,83</td><td class='ficha_sub'>386,67</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pracuúba</td><td class='ficha_sub'>64,41</td><td class='ficha_sub'>27,41</td><td class='ficha_sub'>29,95</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>232,56</td><td class='ficha_sub'>243,49</td><td class='ficha_sub'>276,07</td><td class='ficha_sub'>240,23</td><td class='ficha_sub'>262,87</td><td class='ficha_sub'>335,90</td><td class='ficha_sub'>303,52</td><td class='ficha_sub'>329,26</td><td class='ficha_sub'>323,42</td><td class='ficha_sub'>520,80</td><td class='ficha_sub'>341,92</td><td class='ficha_sub'>359,26</td><td class='ficha_sub'>609,27</td><td class='ficha_sub'>352,19</td><td class='ficha_sub'>422,59</td><td class='ficha_sub'>417,24</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santana</td><td class='ficha_sub'>46,51</td><td class='ficha_sub'>49,48</td><td class='ficha_sub'>77,05</td><td class='ficha_sub'>74,21</td><td class='ficha_sub'>87,87</td><td class='ficha_sub'>97,75</td><td class='ficha_sub'>123,49</td><td class='ficha_sub'>189,99</td><td class='ficha_sub'>167,99</td><td class='ficha_sub'>197,20</td><td class='ficha_sub'>225,72</td><td class='ficha_sub'>245,66</td><td class='ficha_sub'>220,76</td><td class='ficha_sub'>218,28</td><td class='ficha_sub'>308,36</td><td class='ficha_sub'>312,83</td><td class='ficha_sub'>273,21</td><td class='ficha_sub'>280,91</td><td class='ficha_sub'>124,83</td><td class='ficha_sub'>346,92</td><td class='ficha_sub'>374,58</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Tartarugalzinho</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>30,38</td><td class='ficha_sub'>33,29</td><td class='ficha_sub'>60,97</td><td class='ficha_sub'>81,88</td><td class='ficha_sub'>166,88</td><td class='ficha_sub'>195,58</td><td class='ficha_sub'>214,43</td><td class='ficha_sub'>178,72</td><td class='ficha_sub'>178,04</td><td class='ficha_sub'>196,55</td><td class='ficha_sub'>179,26</td><td class='ficha_sub'>219,69</td><td class='ficha_sub'>255,37</td><td class='ficha_sub'>464,63</td><td class='ficha_sub'>237,68</td><td class='ficha_sub'>359,39</td><td class='ficha_sub'>286,14</td><td class='ficha_sub'>389,97</td><td class='ficha_sub'>466,51</td><td class='ficha_sub'>677,03</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Vitória do Jari</td><td class='ficha_sub'>66,73</td><td class='ficha_sub'>103,89</td><td class='ficha_sub'>142,30</td><td class='ficha_sub'>131,14</td><td class='ficha_sub'>139,80</td><td class='ficha_sub'>218,49</td><td class='ficha_sub'>195,96</td><td class='ficha_sub'>238,14</td><td class='ficha_sub'>245,90</td><td class='ficha_sub'>317,39</td><td class='ficha_sub'>297,81</td><td class='ficha_sub'>260,27</td><td class='ficha_sub'>250,84</td><td class='ficha_sub'>342,91</td><td class='ficha_sub'>312,35</td><td class='ficha_sub'>282,70</td><td class='ficha_sub'>408,56</td><td class='ficha_sub'>443,05</td><td class='ficha_sub'>469,59</td><td class='ficha_sub'>516,45</td><td class='ficha_sub'>440,48</td>    </tr>
+    </table>
+<div align='left' style = 'font: 14px Times, Times New Roman, serif;font-style: italic;'><font color=#FF0000>**</font> - Sem informação.</div><br /><!--</div>-->
+
+            <div align="center">
+                <!--<img src="grafico_regional_5.php?codigo=K5100000000000000004&regional=" />
+                <object type="image/svg+xml" data="graf_matrizvi.php?codigo=K5100000000000000004&vizinhos=&uf=&nmunic="  width="900" height="640" ></object>-->
+
+        </div>
+            <br />
+    <div align="center">
+    </div>
+
+<p>PROADESS - Projeto de Avaliação do Desempenho do Sistema de Saúde<br />URL: https://www.proadess.icict.fiocruz.br/</p>
+<!--
+<a class="relat" href="relatorio_reg.php?cod=K51&municipio=&consulta=1&cobertura=&pnad=&sus_b=">Salvar em xls</a>-->
+</div>

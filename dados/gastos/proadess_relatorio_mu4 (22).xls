@@ -1,0 +1,76 @@
+<div align="center">
+		
+		
+<!--<div style="overflow:auto;height:350px; width:760px">-->
+<table class="ficha">
+        <tr class='ficha'><td class="ficha_sup" colspan="22">Gasto público total em saúde por habitante (em R$) - Municípios da UF: Roraima</td></tr>
+
+<tr class='ficha'><td class="ficha_sup">Abrangências geográficas</td>
+            <td class="ficha_sup">2000</td>
+            <td class="ficha_sup">2001</td>
+            <td class="ficha_sup">2002</td>
+            <td class="ficha_sup">2003</td>
+            <td class="ficha_sup">2004</td>
+            <td class="ficha_sup">2005</td>
+            <td class="ficha_sup">2006</td>
+            <td class="ficha_sup">2007</td>
+            <td class="ficha_sup">2008</td>
+            <td class="ficha_sup">2009</td>
+            <td class="ficha_sup">2010</td>
+            <td class="ficha_sup">2011</td>
+            <td class="ficha_sup">2012</td>
+            <td class="ficha_sup">2013</td>
+            <td class="ficha_sup">2014</td>
+            <td class="ficha_sup">2015</td>
+            <td class="ficha_sup">2016</td>
+            <td class="ficha_sup">2017</td>
+            <td class="ficha_sup">2018</td>
+            <td class="ficha_sup">2019</td>
+            <td class="ficha_sup">2020</td>
+                </tr>
+            <tr class='ficha'>
+        <td class='ficha_inf'>Amajari</td><td class='ficha_sub'>88,37</td><td class='ficha_sub'>86,45</td><td class='ficha_sub'>37,46</td><td class='ficha_sub'>63,42</td><td class='ficha_sub'>90,19</td><td class='ficha_sub'>126,37</td><td class='ficha_sub'>170,56</td><td class='ficha_sub'>187,33</td><td class='ficha_sub'>192,08</td><td class='ficha_sub'>243,56</td><td class='ficha_sub'>348,38</td><td class='ficha_sub'>346,28</td><td class='ficha_sub'>342,56</td><td class='ficha_sub'>255,13</td><td class='ficha_sub'>364,11</td><td class='ficha_sub'>301,23</td><td class='ficha_sub'>390,57</td><td class='ficha_sub'>257,99</td><td class='ficha_sub'>509,86</td><td class='ficha_sub'>482,81</td><td class='ficha_sub'>518,63</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Alto Alegre</td><td class='ficha_sub'>30,67</td><td class='ficha_sub'>49,18</td><td class='ficha_sub'>57,16</td><td class='ficha_sub'>64,22</td><td class='ficha_sub'>53,44</td><td class='ficha_sub'>108,29</td><td class='ficha_sub'>109,11</td><td class='ficha_sub'>202,84</td><td class='ficha_sub'>214,39</td><td class='ficha_sub'>283,78</td><td class='ficha_sub'>462,91</td><td class='ficha_sub'>433,73</td><td class='ficha_sub'>281,51</td><td class='ficha_sub'>429,37</td><td class='ficha_sub'>584,04</td><td class='ficha_sub'>438,20</td><td class='ficha_sub'>324,57</td><td class='ficha_sub'>414,51</td><td class='ficha_sub'>659,45</td><td class='ficha_sub'>670,65</td><td class='ficha_sub'>1272,11</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Boa Vista</td><td class='ficha_sub'>85,86</td><td class='ficha_sub'>103,06</td><td class='ficha_sub'>159,67</td><td class='ficha_sub'>161,00</td><td class='ficha_sub'>171,35</td><td class='ficha_sub'>190,94</td><td class='ficha_sub'>231,19</td><td class='ficha_sub'>287,29</td><td class='ficha_sub'>277,83</td><td class='ficha_sub'>322,82</td><td class='ficha_sub'>360,03</td><td class='ficha_sub'>290,84</td><td class='ficha_sub'>320,69</td><td class='ficha_sub'>434,92</td><td class='ficha_sub'>468,69</td><td class='ficha_sub'>504,43</td><td class='ficha_sub'>577,76</td><td class='ficha_sub'>549,19</td><td class='ficha_sub'>629,72</td><td class='ficha_sub'>657,72</td><td class='ficha_sub'>674,05</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bonfim</td><td class='ficha_sub'>32,04</td><td class='ficha_sub'>40,69</td><td class='ficha_sub'>84,34</td><td class='ficha_sub'>60,99</td><td class='ficha_sub'>108,52</td><td class='ficha_sub'>117,45</td><td class='ficha_sub'>142,99</td><td class='ficha_sub'>258,47</td><td class='ficha_sub'>306,15</td><td class='ficha_sub'>274,19</td><td class='ficha_sub'>378,18</td><td class='ficha_sub'>420,42</td><td class='ficha_sub'>277,90</td><td class='ficha_sub'>387,73</td><td class='ficha_sub'>379,20</td><td class='ficha_sub'>444,62</td><td class='ficha_sub'>470,41</td><td class='ficha_sub'>453,54</td><td class='ficha_sub'>617,44</td><td class='ficha_sub'>1009,10</td><td class='ficha_sub'>1292,09</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cantá</td><td class='ficha_sub'>20,62</td><td class='ficha_sub'>16,82</td><td class='ficha_sub'>23,22</td><td class='ficha_sub'>63,76</td><td class='ficha_sub'>104,72</td><td class='ficha_sub'>145,98</td><td class='ficha_sub'>198,42</td><td class='ficha_sub'>218,55</td><td class='ficha_sub'>212,44</td><td class='ficha_sub'>242,68</td><td class='ficha_sub'>262,13</td><td class='ficha_sub'>262,10</td><td class='ficha_sub'>183,56</td><td class='ficha_sub'>352,92</td><td class='ficha_sub'>313,87</td><td class='ficha_sub'>332,29</td><td class='ficha_sub'>460,18</td><td class='ficha_sub'>268,89</td><td class='ficha_sub'>701,12</td><td class='ficha_sub'>482,80</td><td class='ficha_sub'>663,61</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Caracaraí</td><td class='ficha_sub'>73,87</td><td class='ficha_sub'>33,90</td><td class='ficha_sub'>9,29</td><td class='ficha_sub'>66,75</td><td class='ficha_sub'>85,37</td><td class='ficha_sub'>161,52</td><td class='ficha_sub'>192,31</td><td class='ficha_sub'>239,36</td><td class='ficha_sub'>236,65</td><td class='ficha_sub'>228,85</td><td class='ficha_sub'>243,34</td><td class='ficha_sub'>264,19</td><td class='ficha_sub'>330,55</td><td class='ficha_sub'>414,73</td><td class='ficha_sub'>458,67</td><td class='ficha_sub'>492,14</td><td class='ficha_sub'>418,35</td><td class='ficha_sub'>382,50</td><td class='ficha_sub'>511,20</td><td class='ficha_sub'>529,47</td><td class='ficha_sub'>593,38</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Caroebe</td><td class='ficha_sub'>11,23</td><td class='ficha_sub'>62,24</td><td class='ficha_sub'>64,56</td><td class='ficha_sub'>72,17</td><td class='ficha_sub'>93,34</td><td class='ficha_sub'>138,39</td><td class='ficha_sub'>244,95</td><td class='ficha_sub'>190,35</td><td class='ficha_sub'>220,57</td><td class='ficha_sub'>288,95</td><td class='ficha_sub'>267,27</td><td class='ficha_sub'>217,41</td><td class='ficha_sub'>273,54</td><td class='ficha_sub'>295,42</td><td class='ficha_sub'>567,87</td><td class='ficha_sub'>396,81</td><td class='ficha_sub'>642,81</td><td class='ficha_sub'>387,82</td><td class='ficha_sub'>460,69</td><td class='ficha_sub'>632,57</td><td class='ficha_sub'>869,81</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Iracema</td><td class='ficha_sub'>11,92</td><td class='ficha_sub'>61,93</td><td class='ficha_sub'>53,13</td><td class='ficha_sub'>88,73</td><td class='ficha_sub'>110,02</td><td class='ficha_sub'>176,47</td><td class='ficha_sub'>181,06</td><td class='ficha_sub'>249,16</td><td class='ficha_sub'>258,01</td><td class='ficha_sub'>303,66</td><td class='ficha_sub'>303,77</td><td class='ficha_sub'>232,59</td><td class='ficha_sub'>242,68</td><td class='ficha_sub'>407,04</td><td class='ficha_sub'>386,08</td><td class='ficha_sub'>662,99</td><td class='ficha_sub'>339,20</td><td class='ficha_sub'>411,57</td><td class='ficha_sub'>946,01</td><td class='ficha_sub'>559,30</td><td class='ficha_sub'>1296,52</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Mucajaí</td><td class='ficha_sub'>19,33</td><td class='ficha_sub'>63,79</td><td class='ficha_sub'>62,92</td><td class='ficha_sub'>64,76</td><td class='ficha_sub'>82,68</td><td class='ficha_sub'>118,74</td><td class='ficha_sub'>152,49</td><td class='ficha_sub'>164,00</td><td class='ficha_sub'>194,75</td><td class='ficha_sub'>198,91</td><td class='ficha_sub'>262,73</td><td class='ficha_sub'>227,98</td><td class='ficha_sub'>251,95</td><td class='ficha_sub'>228,26</td><td class='ficha_sub'>385,79</td><td class='ficha_sub'>365,15</td><td class='ficha_sub'>484,59</td><td class='ficha_sub'>435,41</td><td class='ficha_sub'>397,43</td><td class='ficha_sub'>602,00</td><td class='ficha_sub'>705,82</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Normandia</td><td class='ficha_sub'>57,23</td><td class='ficha_sub'>109,22</td><td class='ficha_sub'>112,85</td><td class='ficha_sub'>146,84</td><td class='ficha_sub'>192,70</td><td class='ficha_sub'>218,64</td><td class='ficha_sub'>240,69</td><td class='ficha_sub'>194,86</td><td class='ficha_sub'>191,10</td><td class='ficha_sub'>260,88</td><td class='ficha_sub'>382,89</td><td class='ficha_sub'>363,28</td><td class='ficha_sub'>278,23</td><td class='ficha_sub'>262,67</td><td class='ficha_sub'>401,74</td><td class='ficha_sub'>259,47</td><td class='ficha_sub'>448,45</td><td class='ficha_sub'>281,82</td><td class='ficha_sub'>313,83</td><td class='ficha_sub'>592,55</td><td class='ficha_sub'>612,85</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pacaraima</td><td class='ficha_sub'>30,76</td><td class='ficha_sub'>76,99</td><td class='ficha_sub'>113,04</td><td class='ficha_sub'>22,59</td><td class='ficha_sub'>68,26</td><td class='ficha_sub'>157,18</td><td class='ficha_sub'>223,90</td><td class='ficha_sub'>304,20</td><td class='ficha_sub'>255,84</td><td class='ficha_sub'>336,57</td><td class='ficha_sub'>443,49</td><td class='ficha_sub'>442,55</td><td class='ficha_sub'>334,31</td><td class='ficha_sub'>371,46</td><td class='ficha_sub'>450,82</td><td class='ficha_sub'>423,83</td><td class='ficha_sub'>398,26</td><td class='ficha_sub'>328,60</td><td class='ficha_sub'>528,97</td><td class='ficha_sub'>644,56</td><td class='ficha_sub'>871,07</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Rorainópolis</td><td class='ficha_sub'><font color=#FF0000>**</font></td><td class='ficha_sub'>42,96</td><td class='ficha_sub'>199,36</td><td class='ficha_sub'>66,51</td><td class='ficha_sub'>64,71</td><td class='ficha_sub'>72,73</td><td class='ficha_sub'>92,82</td><td class='ficha_sub'>111,53</td><td class='ficha_sub'>106,63</td><td class='ficha_sub'>115,17</td><td class='ficha_sub'>158,41</td><td class='ficha_sub'>158,41</td><td class='ficha_sub'>225,57</td><td class='ficha_sub'>287,84</td><td class='ficha_sub'>390,23</td><td class='ficha_sub'>221,98</td><td class='ficha_sub'>303,27</td><td class='ficha_sub'>451,01</td><td class='ficha_sub'>469,68</td><td class='ficha_sub'>618,73</td><td class='ficha_sub'>893,66</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São João da Baliza</td><td class='ficha_sub'>15,38</td><td class='ficha_sub'>30,12</td><td class='ficha_sub'>22,37</td><td class='ficha_sub'>124,98</td><td class='ficha_sub'>62,93</td><td class='ficha_sub'>199,27</td><td class='ficha_sub'>241,76</td><td class='ficha_sub'>218,88</td><td class='ficha_sub'>291,63</td><td class='ficha_sub'>260,36</td><td class='ficha_sub'>305,03</td><td class='ficha_sub'>284,59</td><td class='ficha_sub'>355,43</td><td class='ficha_sub'>336,77</td><td class='ficha_sub'>394,03</td><td class='ficha_sub'>586,16</td><td class='ficha_sub'>381,27</td><td class='ficha_sub'>507,29</td><td class='ficha_sub'>682,12</td><td class='ficha_sub'>772,73</td><td class='ficha_sub'>644,32</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Luiz</td><td class='ficha_sub'>15,44</td><td class='ficha_sub'>38,20</td><td class='ficha_sub'>43,46</td><td class='ficha_sub'>83,56</td><td class='ficha_sub'>105,88</td><td class='ficha_sub'>149,42</td><td class='ficha_sub'>172,03</td><td class='ficha_sub'>243,65</td><td class='ficha_sub'>239,48</td><td class='ficha_sub'>294,49</td><td class='ficha_sub'>277,53</td><td class='ficha_sub'>286,00</td><td class='ficha_sub'>286,30</td><td class='ficha_sub'>321,60</td><td class='ficha_sub'>400,68</td><td class='ficha_sub'>541,29</td><td class='ficha_sub'>421,69</td><td class='ficha_sub'>326,41</td><td class='ficha_sub'>634,23</td><td class='ficha_sub'>652,42</td><td class='ficha_sub'>1547,91</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Uiramutã</td><td class='ficha_sub'>10,81</td><td class='ficha_sub'>31,45</td><td class='ficha_sub'>20,75</td><td class='ficha_sub'>39,25</td><td class='ficha_sub'>55,69</td><td class='ficha_sub'>80,37</td><td class='ficha_sub'>103,95</td><td class='ficha_sub'>119,28</td><td class='ficha_sub'>129,31</td><td class='ficha_sub'>235,07</td><td class='ficha_sub'>455,22</td><td class='ficha_sub'>444,01</td><td class='ficha_sub'>306,95</td><td class='ficha_sub'>316,07</td><td class='ficha_sub'>242,28</td><td class='ficha_sub'>221,52</td><td class='ficha_sub'>347,88</td><td class='ficha_sub'>349,45</td><td class='ficha_sub'>374,78</td><td class='ficha_sub'>975,20</td><td class='ficha_sub'>1050,85</td>    </tr>
+    </table>
+<div align='left' style = 'font: 14px Times, Times New Roman, serif;font-style: italic;'><font color=#FF0000>**</font> - Sem informação.</div><br /><!--</div>-->
+
+            <div align="center">
+                <!--<img src="grafico_regional_5.php?codigo=K5100000000000000004&regional=" />
+                <object type="image/svg+xml" data="graf_matrizvi.php?codigo=K5100000000000000004&vizinhos=&uf=&nmunic="  width="900" height="640" ></object>-->
+
+        </div>
+            <br />
+    <div align="center">
+    </div>
+
+<p>PROADESS - Projeto de Avaliação do Desempenho do Sistema de Saúde<br />URL: https://www.proadess.icict.fiocruz.br/</p>
+<!--
+<a class="relat" href="relatorio_reg.php?cod=K51&municipio=&consulta=1&cobertura=&pnad=&sus_b=">Salvar em xls</a>-->
+</div>
