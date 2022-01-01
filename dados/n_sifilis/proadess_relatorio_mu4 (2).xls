@@ -1,0 +1,69 @@
+<div align="center">
+		
+		
+<!--<div style="overflow:auto;height:350px; width:760px">-->
+<table class="ficha">
+        <tr class='ficha'><td class="ficha_sup" colspan="13">Número de casos novos de sífilis congênita em menores de 1 ano - Municípios da UF: Amapá</td></tr>
+
+<tr class='ficha'><td class="ficha_sup">Abrangências geográficas</td>
+            <td class="ficha_sup">2007</td>
+            <td class="ficha_sup">2008</td>
+            <td class="ficha_sup">2009</td>
+            <td class="ficha_sup">2010</td>
+            <td class="ficha_sup">2011</td>
+            <td class="ficha_sup">2012</td>
+            <td class="ficha_sup">2013</td>
+            <td class="ficha_sup">2014</td>
+            <td class="ficha_sup">2015</td>
+            <td class="ficha_sup">2016</td>
+            <td class="ficha_sup">2017</td>
+            <td class="ficha_sup">2018</td>
+                </tr>
+            <tr class='ficha'>
+        <td class='ficha_inf'>Serra do Navio</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Amapá</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pedra Branca do Amapari</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Calçoene</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cutias</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Ferreira Gomes</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Itaubal</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Laranjal do Jari</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>4</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Macapá</td><td class='ficha_sub'>80</td><td class='ficha_sub'>69</td><td class='ficha_sub'>78</td><td class='ficha_sub'>67</td><td class='ficha_sub'>60</td><td class='ficha_sub'>95</td><td class='ficha_sub'>96</td><td class='ficha_sub'>28</td><td class='ficha_sub'>31</td><td class='ficha_sub'>59</td><td class='ficha_sub'>52</td><td class='ficha_sub'>39</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Mazagão</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Oiapoque</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Porto Grande</td><td class='ficha_sub'>2</td><td class='ficha_sub'>5</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pracuúba</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santana</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>8</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>5</td><td class='ficha_sub'>7</td><td class='ficha_sub'>7</td><td class='ficha_sub'>3</td><td class='ficha_sub'>12</td><td class='ficha_sub'>17</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Tartarugalzinho</td><td class='ficha_sub'>4</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Vitória do Jari</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+    </table>
+<br /><!--</div>-->
+
+            <div align="center">
+                <!--<img src="grafico_regional_5.php?codigo=B2400000000000000001&regional=" />
+                <object type="image/svg+xml" data="graf_matrizvi.php?codigo=B2400000000000000001&vizinhos=&uf=&nmunic="  width="900" height="640" ></object>-->
+
+        </div>
+            <br />
+    <div align="center">
+    </div>
+
+<p>PROADESS - Projeto de Avaliação do Desempenho do Sistema de Saúde<br />URL: https://www.proadess.icict.fiocruz.br/</p>
+<!--
+<a class="relat" href="relatorio_reg.php?cod=B24&municipio=&consulta=1&cobertura=&pnad=&sus_b=">Salvar em xls</a>-->
+</div>

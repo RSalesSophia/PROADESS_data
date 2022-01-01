@@ -1,0 +1,39 @@
+<div align="center">
+		
+		
+<!--<div style="overflow:auto;height:350px; width:760px">-->
+<table class="ficha">
+        <tr class='ficha'><td class="ficha_sup" colspan="13">Número de casos novos de sífilis congênita em menores de 1 ano - Municípios da UF: Distrito Federal</td></tr>
+
+<tr class='ficha'><td class="ficha_sup">Abrangências geográficas</td>
+            <td class="ficha_sup">2007</td>
+            <td class="ficha_sup">2008</td>
+            <td class="ficha_sup">2009</td>
+            <td class="ficha_sup">2010</td>
+            <td class="ficha_sup">2011</td>
+            <td class="ficha_sup">2012</td>
+            <td class="ficha_sup">2013</td>
+            <td class="ficha_sup">2014</td>
+            <td class="ficha_sup">2015</td>
+            <td class="ficha_sup">2016</td>
+            <td class="ficha_sup">2017</td>
+            <td class="ficha_sup">2018</td>
+                </tr>
+            <tr class='ficha'>
+        <td class='ficha_inf'>Brasília</td><td class='ficha_sub'>113</td><td class='ficha_sub'>110</td><td class='ficha_sub'>83</td><td class='ficha_sub'>93</td><td class='ficha_sub'>120</td><td class='ficha_sub'>145</td><td class='ficha_sub'>177</td><td class='ficha_sub'>175</td><td class='ficha_sub'>202</td><td class='ficha_sub'>218</td><td class='ficha_sub'>285</td><td class='ficha_sub'>371</td>    </tr>
+    </table>
+<br /><!--</div>-->
+
+            <div align="center">
+                <!--<img src="grafico_regional_5.php?codigo=B2400000000000000001&regional=" />
+                <object type="image/svg+xml" data="graf_matrizvi.php?codigo=B2400000000000000001&vizinhos=&uf=&nmunic="  width="900" height="640" ></object>-->
+
+        </div>
+            <br />
+    <div align="center">
+    </div>
+
+<p>PROADESS - Projeto de Avaliação do Desempenho do Sistema de Saúde<br />URL: https://www.proadess.icict.fiocruz.br/</p>
+<!--
+<a class="relat" href="relatorio_reg.php?cod=B24&municipio=&consulta=1&cobertura=&pnad=&sus_b=">Salvar em xls</a>-->
+</div>

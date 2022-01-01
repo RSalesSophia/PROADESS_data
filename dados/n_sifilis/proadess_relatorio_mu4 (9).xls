@@ -1,0 +1,471 @@
+<div align="center">
+		
+		
+<!--<div style="overflow:auto;height:350px; width:760px">-->
+<table class="ficha">
+        <tr class='ficha'><td class="ficha_sup" colspan="13">Número de casos novos de sífilis congênita em menores de 1 ano - Municípios da UF: Maranhão</td></tr>
+
+<tr class='ficha'><td class="ficha_sup">Abrangências geográficas</td>
+            <td class="ficha_sup">2007</td>
+            <td class="ficha_sup">2008</td>
+            <td class="ficha_sup">2009</td>
+            <td class="ficha_sup">2010</td>
+            <td class="ficha_sup">2011</td>
+            <td class="ficha_sup">2012</td>
+            <td class="ficha_sup">2013</td>
+            <td class="ficha_sup">2014</td>
+            <td class="ficha_sup">2015</td>
+            <td class="ficha_sup">2016</td>
+            <td class="ficha_sup">2017</td>
+            <td class="ficha_sup">2018</td>
+                </tr>
+            <tr class='ficha'>
+        <td class='ficha_inf'>Açailândia</td><td class='ficha_sub'>2</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>6</td><td class='ficha_sub'>8</td><td class='ficha_sub'>4</td><td class='ficha_sub'>2</td><td class='ficha_sub'>5</td><td class='ficha_sub'>9</td><td class='ficha_sub'>5</td><td class='ficha_sub'>10</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Afonso Cunha</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Água Doce do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Alcântara</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Aldeias Altas</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Altamira do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Alto Alegre do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Alto Alegre do Pindaré</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Alto Parnaíba</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Amapá do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Amarante do Maranhão</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Anajatuba</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>6</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Anapurus</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Apicum-Açu</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Araguanã</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Araioses</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>4</td><td class='ficha_sub'>6</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Arame</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Arari</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Axixá</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bacabal</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>4</td><td class='ficha_sub'>8</td><td class='ficha_sub'>2</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>5</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bacabeira</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bacuri</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bacurituba</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Balsas</td><td class='ficha_sub'>5</td><td class='ficha_sub'>4</td><td class='ficha_sub'>13</td><td class='ficha_sub'>14</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>6</td><td class='ficha_sub'>15</td><td class='ficha_sub'>21</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Barão de Grajaú</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>4</td><td class='ficha_sub'>3</td><td class='ficha_sub'>5</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Barra do Corda</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Barreirinhas</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>5</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Belágua</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bela Vista do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Benedito Leite</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bequimão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bernardo do Mearim</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Boa Vista do Gurupi</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bom Jardim</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bom Jesus das Selvas</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>4</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>5</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Bom Lugar</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Brejo</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Brejo de Areia</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Buriti</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Buriti Bravo</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Buriticupu</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>4</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>18</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Buritirana</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>4</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cachoeira Grande</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cajapió</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cajari</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Campestre do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cândido Mendes</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cantanhede</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Capinzal do Norte</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Carolina</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>4</td><td class='ficha_sub'>2</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Carutapera</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Caxias</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>8</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>5</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cedral</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Central do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Centro do Guilherme</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Centro Novo do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Chapadinha</td><td class='ficha_sub'>1</td><td class='ficha_sub'>7</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>4</td><td class='ficha_sub'>7</td><td class='ficha_sub'>11</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cidelândia</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Codó</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>4</td><td class='ficha_sub'>22</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Coelho Neto</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>6</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>5</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Colinas</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Conceição do Lago-Açu</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Coroatá</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>5</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Cururupu</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>5</td><td class='ficha_sub'>0</td><td class='ficha_sub'>11</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Davinópolis</td><td class='ficha_sub'>2</td><td class='ficha_sub'>4</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>6</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Dom Pedro</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Duque Bacelar</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Esperantinópolis</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Estreito</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>4</td><td class='ficha_sub'>4</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>6</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Feira Nova do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Fernando Falcão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Formosa da Serra Negra</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Fortaleza dos Nogueiras</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Fortuna</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Godofredo Viana</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Gonçalves Dias</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Governador Archer</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Governador Edison Lobão</td><td class='ficha_sub'>1</td><td class='ficha_sub'>7</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>5</td><td class='ficha_sub'>5</td><td class='ficha_sub'>0</td><td class='ficha_sub'>4</td><td class='ficha_sub'>3</td><td class='ficha_sub'>5</td><td class='ficha_sub'>0</td><td class='ficha_sub'>8</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Governador Eugênio Barros</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Governador Luiz Rocha</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Governador Newton Bello</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Governador Nunes Freire</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>4</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Graça Aranha</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Grajaú</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>4</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Guimarães</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Humberto de Campos</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Icatu</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Igarapé do Meio</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Igarapé Grande</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Imperatriz</td><td class='ficha_sub'>47</td><td class='ficha_sub'>29</td><td class='ficha_sub'>32</td><td class='ficha_sub'>31</td><td class='ficha_sub'>40</td><td class='ficha_sub'>21</td><td class='ficha_sub'>17</td><td class='ficha_sub'>23</td><td class='ficha_sub'>27</td><td class='ficha_sub'>67</td><td class='ficha_sub'>17</td><td class='ficha_sub'>49</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Itaipava do Grajaú</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Itapecuru Mirim</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Itinga do Maranhão</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Jatobá</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Jenipapo dos Vieiras</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>João Lisboa</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>4</td><td class='ficha_sub'>5</td><td class='ficha_sub'>4</td><td class='ficha_sub'>5</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Joselândia</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Junco do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Lago da Pedra</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Lago do Junco</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Lago Verde</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Lagoa do Mato</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Lago dos Rodrigues</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Lagoa Grande do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Lajeado Novo</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Lima Campos</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Loreto</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Luís Domingues</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Magalhães de Almeida</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>5</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Maracaçumé</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Marajá do Sena</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Maranhãozinho</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Mata Roma</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Matinha</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Matões</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>4</td><td class='ficha_sub'>5</td><td class='ficha_sub'>11</td><td class='ficha_sub'>18</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Matões do Norte</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Milagres do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Mirador</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Miranda do Norte</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Mirinzal</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Monção</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Montes Altos</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Morros</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Nina Rodrigues</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Nova Colinas</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Nova Iorque</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Nova Olinda do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Olho d'Água das Cunhãs</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Olinda Nova do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>4</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Paço do Lumiar</td><td class='ficha_sub'>0</td><td class='ficha_sub'>4</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>15</td><td class='ficha_sub'>7</td><td class='ficha_sub'>4</td><td class='ficha_sub'>22</td><td class='ficha_sub'>7</td><td class='ficha_sub'>8</td><td class='ficha_sub'>26</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Palmeirândia</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Paraibano</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Parnarama</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>10</td><td class='ficha_sub'>9</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Passagem Franca</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pastos Bons</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Paulino Neves</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Paulo Ramos</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pedreiras</td><td class='ficha_sub'>2</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pedro do Rosário</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Penalva</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>5</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Peri Mirim</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Peritoró</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pindaré-Mirim</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pinheiro</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>7</td><td class='ficha_sub'>6</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pio XII</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Pirapemas</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Poção de Pedras</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Porto Franco</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Porto Rico do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Presidente Dutra</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>4</td><td class='ficha_sub'>3</td><td class='ficha_sub'>5</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Presidente Juscelino</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Presidente Médici</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Presidente Sarney</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Presidente Vargas</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Primeira Cruz</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Raposa</td><td class='ficha_sub'>2</td><td class='ficha_sub'>6</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>4</td><td class='ficha_sub'>7</td><td class='ficha_sub'>2</td><td class='ficha_sub'>6</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Riachão</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Ribamar Fiquene</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Rosário</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>5</td><td class='ficha_sub'>2</td><td class='ficha_sub'>5</td><td class='ficha_sub'>6</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Sambaíba</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santa Filomena do Maranhã</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santa Helena</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santa Inês</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santa Luzia</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>5</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>5</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santa Luzia do Paruá</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santa Quitéria do Maranhã</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santa Rita</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santana do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santo Amaro do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Santo Antônio dos Lopes</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Benedito do Rio Preto</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Bento</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Bernardo</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Domingos do Azeitão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Domingos do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Félix de Balsas</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Francisco do Brejão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Francisco do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São João Batista</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São João do Carú</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São João do Paraíso</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>4</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São João do Soter</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São João dos Patos</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>6</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São José de Ribamar</td><td class='ficha_sub'>1</td><td class='ficha_sub'>6</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>11</td><td class='ficha_sub'>19</td><td class='ficha_sub'>14</td><td class='ficha_sub'>24</td><td class='ficha_sub'>14</td><td class='ficha_sub'>28</td><td class='ficha_sub'>31</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São José dos Basílios</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Luís</td><td class='ficha_sub'>47</td><td class='ficha_sub'>112</td><td class='ficha_sub'>31</td><td class='ficha_sub'>20</td><td class='ficha_sub'>57</td><td class='ficha_sub'>72</td><td class='ficha_sub'>126</td><td class='ficha_sub'>106</td><td class='ficha_sub'>166</td><td class='ficha_sub'>128</td><td class='ficha_sub'>157</td><td class='ficha_sub'>201</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Luís Gonzaga do Maran</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Mateus do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Pedro da Água Branca</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Pedro dos Crentes</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Raimundo das Mangabei</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Raimundo do Doca Beze</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Roberto</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>São Vicente Ferrer</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Satubinha</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Senador Alexandre Costa</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Senador La Rocque</td><td class='ficha_sub'>1</td><td class='ficha_sub'>7</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>3</td><td class='ficha_sub'>8</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Serrano do Maranhão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Sítio Novo</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Sucupira do Norte</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Sucupira do Riachão</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Tasso Fragoso</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Timbiras</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>5</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Timon</td><td class='ficha_sub'>4</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>14</td><td class='ficha_sub'>17</td><td class='ficha_sub'>33</td><td class='ficha_sub'>51</td><td class='ficha_sub'>43</td><td class='ficha_sub'>35</td><td class='ficha_sub'>40</td><td class='ficha_sub'>55</td><td class='ficha_sub'>59</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Trizidela do Vale</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Tufilândia</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Tuntum</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Turiaçu</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Turilândia</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Tutóia</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>4</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Urbano Santos</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Vargem Grande</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td><td class='ficha_sub'>3</td><td class='ficha_sub'>7</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>6</td><td class='ficha_sub'>3</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Viana</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>4</td><td class='ficha_sub'>3</td><td class='ficha_sub'>9</td><td class='ficha_sub'>5</td><td class='ficha_sub'>2</td><td class='ficha_sub'>12</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Vila Nova dos Martírios</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>6</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>3</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Vitória do Mearim</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>1</td><td class='ficha_sub'>7</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Vitorino Freire</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td><td class='ficha_sub'>0</td>    </tr>
+        <tr class='ficha'>
+        <td class='ficha_inf'>Zé Doca</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>0</td><td class='ficha_sub'>1</td><td class='ficha_sub'>2</td><td class='ficha_sub'>0</td>    </tr>
+    </table>
+<br /><!--</div>-->
+
+            <div align="center">
+                <!--<img src="grafico_regional_5.php?codigo=B2400000000000000001&regional=" />
+                <object type="image/svg+xml" data="graf_matrizvi.php?codigo=B2400000000000000001&vizinhos=&uf=&nmunic="  width="900" height="640" ></object>-->
+
+        </div>
+            <br />
+    <div align="center">
+    </div>
+
+<p>PROADESS - Projeto de Avaliação do Desempenho do Sistema de Saúde<br />URL: https://www.proadess.icict.fiocruz.br/</p>
+<!--
+<a class="relat" href="relatorio_reg.php?cod=B24&municipio=&consulta=1&cobertura=&pnad=&sus_b=">Salvar em xls</a>-->
+</div>
