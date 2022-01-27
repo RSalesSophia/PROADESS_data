@@ -11,23 +11,23 @@ library(tidyr)
 library(readxl)
 library(deflateBR)
 
-#Configuraçao
+#ConfiguraÃ§ao
 options(scipen = 100)
 
-#Extraçao de dados do site PROADESS.
-#Esse site fornece diversos dados relativos a dados da saúde no Brasil.
+#ExtraÃ§ao de dados do site PROADESS.
+#Esse site fornece diversos dados relativos a dados da saÃºde no Brasil.
 
-#Primeiramente foi extraído dados municipais por estado relativos ao número 
-#de casos novos de sífilis congênita em menores de 1 ano. 
+#Primeiramente foi extraÃ­do dados municipais por estado relativos ao nÃºmero 
+#de casos novos de sÃ­filis congÃªnita em menores de 1 ano. 
 
 #Por padrao os dados sao entendidos como xls, apesar de serem html. 
 
-#Assim, faz-se a listagem dos arquivos com formato xls no diretório:
+#Assim, faz-se a listagem dos arquivos com formato xls no diretÃ³rio:
 arquivos = list.files(pattern="*.xls")
 
 #Criando uma lista com todos arquivos xls e lendo em html. 
 #Por fim bind_rows serve para combinar por linhas. 
-#Criando uma funçao para ler varios arquivos que apresentam esse mesmo erro:
+#Criando uma funÃ§ao para ler varios arquivos que apresentam esse mesmo erro:
 
 leitura = function(arquivos){
   lapply(arquivos, function(x) {
@@ -36,31 +36,31 @@ leitura = function(arquivos){
     bind_rows()
 }
 
-#Correndo a funçao criada anteriormente
+#Correndo a funÃ§ao criada anteriormente
 leitura_arquivos = leitura(arquivos)
 
 #Tratando a base de dados:
 #Removendo as linhas com contem a palavra 'Abrangencia'
 leitura_arquivos %<>%
-  filter(!str_detect(X1, "Abrangência"))
+  filter(!str_detect(X1, "AbrangÃªncia"))
 
 #Para poder identificar qual estado cada cidade pertence de acordo com o
 #arquivo de origem, necessita-se de alguns procedimentos.
 
 #Primeiramente, numera-se as linhas da base de dados de forma a descobrir a 
-#indexaçao de cada uma delas. 
+#indexaÃ§ao de cada uma delas. 
 leitura_arquivos %<>%
   mutate(numeracao = 1:nrow(leitura_arquivos))
 
 #Cria-se uma nova base de dados apenas com as linhas que contem a palavra
-#'Número'.
+#'NÃºmero'.
 id_estado = leitura_arquivos %>%
-  filter(str_detect(X1, "Número"))
+  filter(str_detect(X1, "NÃºmero"))
 
 #De acordo com a base anterior, cria-se um intervalo de linhas que corresponde
-#ao estado dos municípios.
+#ao estado dos municÃ­pios.
 #Dado que o mesmo procedimento ira ser feito outras vezes e sempre
-#sera a combinaçao do mesmo intervalo, cria-se uma funcao para isso
+#sera a combinaÃ§ao do mesmo intervalo, cria-se uma funcao para isso
 intervalo = function(x){x %<>%
   mutate(Estado = case_when(numeracao %in% 1:103 ~ "AL",
                             numeracao %in% 104:245 ~ "MT",
@@ -92,10 +92,10 @@ intervalo = function(x){x %<>%
 
 df = intervalo(leitura_arquivos)
 
-#Removendo as linhas que contem a palavra 'Número' da base principal
-#e excluinindo a coluna numeracao (não mais necessária)
+#Removendo as linhas que contem a palavra 'NÃºmero' da base principal
+#e excluinindo a coluna numeracao (nÃ£o mais necessÃ¡ria)
 df %<>%
-  filter(!str_detect(X1, "Número")) %>%
+  filter(!str_detect(X1, "NÃºmero")) %>%
   select(-numeracao)
 
 #Renomeando as colunas
@@ -114,11 +114,11 @@ write.csv(df,'base_sifilis.csv', row.names =FALSE)
 ##########################################################################
 #Segunda base: relativa aos nascidos vivos
 
-#Todos arquivos que sao csv e estao no diretório
+#Todos arquivos que sao csv e estao no diretÃ³rio
 nascidos = list.files(pattern="*.csv")
 
 #Unindo todos os arquivos e criando uma coluna para identificar o ano
-#Para cria-se uma função:
+#Para cria-se uma funÃ§Ã£o:
 
 id_base = function(x){lapply(x, function(x) {
   out <- fread(x, header = FALSE)
@@ -132,16 +132,16 @@ arq_nascidos = id_base(nascidos)
 df_nascidos = rbindlist(arq_nascidos) %>%
   as_tibble()
 
-#Fazendo algumas mudanças:
+#Fazendo algumas mudanÃ§as:
 #1 - Retirando as linhas que constam o Total do ano e relativo
-#ao cabeçalhado do dataframe anterior
+#ao cabeÃ§alhado do dataframe anterior
 #2 - Separando a coluna V1 em codigo do municipio e nome do municipio
 #3 - Criando uma coluna para contem apenas a informacao relativo ao ano
 #4 - Renomeando algumas colunas
-#5 - Excluindo a coluna 'source-file' que nao é mais necessaria
+#5 - Excluindo a coluna 'source-file' que nao Ã© mais necessaria
 
 df_nascidos %<>%
-  filter((!(str_detect(V1, "Total|Município") | 
+  filter((!(str_detect(V1, "Total|MunicÃ­pio") | 
                     str_detect(V2, "Nascim_p/resid.mae")))) %>%
   separate(V1, c("key", "value"), " ", extra = "merge") %>%
   mutate(Ano = substr(source_file,1, 4)) %>%
@@ -156,7 +156,7 @@ write.csv(df_nascidos,'base_nascidos.csv', row.names =FALSE)
 
 #----------------------------------------------------------------------#
 #Importando as bases relativas a taxa de analfabetismo
-#Dado que é apenas dois arquivos, torna-se mais fácil o tratamento
+#Dado que Ã© apenas dois arquivos, torna-se mais fÃ¡cil o tratamento
 #de dados importando cada arquivo de uma vez
 
 educ_2000 = read.csv("taxa_analfabetismo_2000.csv", sep = ";", dec = ",",
@@ -178,8 +178,8 @@ educ = rbind(educ_2000, educ_2010)
 
 #Tratando os dados
 educ %<>%
-  filter((!(str_detect(Município, "Total|IBGE|Consulte")))) %>%
-  separate(Município, c("key", "value"), " ", extra = "merge") %>%
+  filter((!(str_detect(MunicÃ­pio, "Total|IBGE|Consulte")))) %>%
+  separate(MunicÃ­pio, c("key", "value"), " ", extra = "merge") %>%
   rename(Codigo_Mun = key,
          Nome_Mun = value)
 
@@ -199,7 +199,7 @@ idhm = rbindlist(idhm) %>%
 
 #Tratando a base de dados 
 idhm %<>%
-  filter((!(str_detect(V1, "Índice|Abrangências|PROADESS|URL")))) %>%
+  filter((!(str_detect(V1, "Ãndice|AbrangÃªncias|PROADESS|URL")))) %>%
   mutate(UF = substr(source_file,1,2)) %>%
   rename(Municipio = V1,
          "2000" = V3,
@@ -217,7 +217,7 @@ idhm %<>%
 write.csv(idhm,'base_idhm2.csv', row.names =FALSE)
 #----------------------------------------------------------------------#
 #Importando a base de dados relativo a renda dos municipios
-#Novamente dado o fato que só sao duas bases é mais fácil importar cada uma
+#Novamente dado o fato que sÃ³ sao duas bases Ã© mais fÃ¡cil importar cada uma
 
 rend_2000 = read.csv("renda_2000.csv", sep = ";", row.names = NULL,
                      skip = 3, dec = ",")
@@ -238,35 +238,35 @@ rend = rbind(rend_2000, rend_2010)
 
 #Tratando a base de dados: 
 rend %<>%
-  filter(!Município == "Total") %>%
-  separate(Município, c("key", "value"), " ", extra = "merge") %>%
+  filter(!MunicÃ­pio == "Total") %>%
+  separate(MunicÃ­pio, c("key", "value"), " ", extra = "merge") %>%
   rename(Codigo_Mun = key,
          Nome_Mun = value,
-         Renda_med = Renda_média_domic._per_capita) %>%
+         Renda_med = Renda_mÃ©dia_domic._per_capita) %>%
   drop_na()
   
 #Exportando a base de renda media
 write.csv(rend,'base_renda.csv', row.names =FALSE)
 
 #----------------------------------------------------------------------#
-#Dados relativos a informaçoes relativas ao gasto com saúde
+#Dados relativos a informaÃ§oes relativas ao gasto com saÃºde
 #Esses dados foram retirados do mesmo site da primeira base trabalhada.
-#Isto é, PROADESS. 
+#Isto Ã©, PROADESS. 
 #Dessa forma, segue-se o mesmo procedimento feito anteriormente.
   
-#Assim, faz-se a listagem dos arquivos com formato xls no diretório:
+#Assim, faz-se a listagem dos arquivos com formato xls no diretÃ³rio:
 arquivos = list.files(pattern="*.xls")
 
 #Lendo arquivos que tem consigo o mesmo erro da primeira base
 leitura_arquivos = leitura(arquivos)
 
 #Tratando a base de dados:
-#Removendo as linhas com contem a palavra 'Abrangencia'
+#Removendo as linhas com contem a palavra 'AbrangÃªncia'
 leitura_arquivos %<>%
-  filter(!str_detect(X1, "Abrangencia"))
+  filter(!str_detect(X1, "AbrangÃªncia"))
 
 #Numerando as linhas da base de dados de forma a descobrir a 
-#indexaçao de cada uma delas. 
+#indexaÃ§ao de cada uma delas. 
 leitura_arquivos %<>%
   mutate(numeracao = 1:nrow(leitura_arquivos))
 
@@ -280,8 +280,8 @@ id_estado = leitura_arquivos %>%
 #'intervalo' para essa definicao
 df_gastos = intervalo(leitura_arquivos)
 
-#Removendo as linhas que contem a palavra 'Número' da base principal
-#e excluinindo a coluna numeracao (nao mais necessária)
+#Removendo as linhas que contem a palavra 'NÃºmero' da base principal
+#e excluinindo a coluna numeracao (nao mais necessÃ¡ria)
 df_gastos %<>%
   filter(!str_detect(X1, "Gasto")) %>%
   select(-numeracao)
@@ -297,7 +297,7 @@ df_gastos %<>%
 #Transformando a coluna no formato long
 df_gastos %<>% gather("Ano", "Gasto_saude", 2:22)
 
-#Deflacionado as dados dos Gastos com saúde para o ano de 2018:
+#Deflacionado as dados dos Gastos com saÃºde para o ano de 2018:
 
 df_gastos %<>%
   mutate(Gasto_saude = as.numeric((gsub(",", ".", Gasto_saude))),
@@ -311,7 +311,7 @@ write.csv(df_gastos,'base_gastos.csv', row.names =FALSE)
 
 #----------------------------------------------------------------------#
 #Importando arquivos relativos ao percentual de Percentual de nascidos vivos 
-#cujas maes fizeram mais de 6 consultas de pré-natal
+#cujas maes fizeram mais de 6 consultas de prÃ©-natal
 
 arquivos = list.files(pattern="*.csv")
 
@@ -323,15 +323,15 @@ consultas = rbindlist(consultas) %>%
 
 #Removendo as linhas com contem a palavra 'Abrangencia' e 'Percentual
 consultas %<>%
-  filter(!str_detect(V1, "Abrangência|Percentual|evitar|URL|Indicador"))
+  filter(!str_detect(V1, "AbrangÃªncia|Percentual|evitar|URL|Indicador"))
 
 #Removendo linhas relativas a regioes, brasil e estados
 #Regioes, Estados e do Brasil
 Estados = c("Minas Gerais","Acre","Alagoas","Amazonas","Bahia",
-            "Ceará","Espírito Santo","Goiás","Maranhao","Mato Grosso",
-            "Mato Grosso do Sul","Minas Gerais","Pará","Paraíba", 
-            "Paraná","Pernambuco" ,"Piauí" ,"Rio Grande do Norte",
-            "Rio Grande do Sul" ,"Rondônia","Roraima","Santa Catarina",
+            "CearÃ¡","EspÃ­rito Santo","GoiÃ¡s","Maranhao","Mato Grosso",
+            "Mato Grosso do Sul","Minas Gerais","ParÃ¡","ParaÃ­ba", 
+            "ParanÃ¡","Pernambuco" ,"PiauÃ­" ,"Rio Grande do Norte",
+            "Rio Grande do Sul" ,"RondÃ´nia","Roraima","Santa Catarina",
             "Sergipe","Tocantins")
 
 
@@ -344,7 +344,7 @@ consultas %<>%
              (V1 == "Sudeste" & V2 == "52,5") |
              (V1 %in% Estados) |
              (V1 == "Sao Paulo" & V2 == "54,5") |
-             (V1 == "Amapá" & V2 == "22,0") |
+             (V1 == "AmapÃ¡" & V2 == "22,0") |
              (V1 == "Rio de Janeiro" & V2 == "56,6")))
 
 #Renomeando as colunas 
@@ -368,8 +368,8 @@ consultas %<>%
 write.csv(consultas,'base_consultas.csv', row.names =FALSE)
 
 #----------------------------------------------------------------------#
-#Importando o percentual da populaçao coberta pela Estratégia Saúde da 
-#Família (ESF)
+#Importando o percentual da populaÃ§ao coberta pela EstratÃ©gia SaÃºde da 
+#FamÃ­lia (ESF)
 
 arquivos = list.files(pattern="*.csv")
 
@@ -382,7 +382,7 @@ esf = rbindlist(esf) %>%
 
 #Removendo as linhas com contem a palavra 'Abrangencia' e 'Percentual
 esf %<>%
-  filter(!str_detect(V1, "Abrangência|Percentual|URL|PROADESS"))
+  filter(!str_detect(V1, "AbrangÃªncia|Percentual|URL|PROADESS"))
 
 #Removendo linhas relativas a regioes, brasil e estados
 esf %<>%
@@ -394,7 +394,7 @@ esf %<>%
              (V1 == "Sudeste" & V2 == "9,9") |
              (V1 %in% Estados) |
              (V1 == "Sao Paulo" & V2 == "5,3") |
-             (V1 == "Amapá" & V2 == "2,8") |
+             (V1 == "AmapÃ¡" & V2 == "2,8") |
              (V1 == "Rio de Janeiro" & V2 == "8,0")))
 
 #Renomeando as colunas 
@@ -421,15 +421,15 @@ write.csv(esf,'base_cobertura.csv', row.names =FALSE)
 sif = read.csv("base_sifilis.csv") %>%
   as_tibble()
 
-#Códigos dos estados de acordo com o IBGE
+#CÃ³digos dos estados de acordo com o IBGE
 codigos = read_excel("Tabela Estados IBGE.xlsx")
 
 codigos %<>% select(-Estado) %>%
-  rename(Codigo_UF = `Código da UF`)
+  rename(Codigo_UF = `CÃ³digo da UF`)
 
-#Unindo essa informaçao com a tabela que contem as informacoes
+#Unindo essa informaÃ§ao com a tabela que contem as informacoes
 #sobre a quantidade de casos de sifilis. Para isso, utiliza-se
-#da funçao de inner_join:
+#da funÃ§ao de inner_join:
 
 uniao = inner_join(codigos, sif, by = c("UF" = "Estado")) 
 
@@ -445,7 +445,7 @@ uniao %<>%
 
 #OBS: dado que a base anterior tem no max 25 characters na columa
 #nome dos municipios, cria-se uma coluna em nascidos considerando
-#no maximo até 25 characters
+#no maximo atÃ© 25 characters
 
 nascidos = read.csv("base_nascidos.csv") 
 
@@ -457,7 +457,7 @@ nascidos %<>%
 
 uniao = inner_join(uniao, nascidos, by = "Chave")
 
-#Criando a variável taxa de indicidencia:
+#Criando a variÃ¡vel taxa de indicidencia:
 uniao %<>%
   mutate(Tx_incidencia = round(((Casos_Sifilis*1000)/(Nascidos_Vivos))))
 
@@ -466,11 +466,11 @@ uniao %<>%
 
 educ = read.csv("base_analfabetismo.csv")
 
-#A informaçao relativa ao ano corresponde ao ano cujo qual foi
+#A informaÃ§ao relativa ao ano corresponde ao ano cujo qual foi
 #realizado o CENSO. 
 
-#Assim na base uniao é necessario criar uma dummy que indica se o Ano
-#é anterior ou nao a 2010:
+#Assim na base uniao Ã© necessario criar uma dummy que indica se o Ano
+#Ã© anterior ou nao a 2010:
 uniao %<>% 
   mutate(D_Ano = if_else(Ano < 2010, "2000","2010"),
          Chave = paste0(Codigo_Mun, D_Ano))
@@ -494,7 +494,7 @@ renda %<>%
 uniao = left_join(uniao, renda, by = "Chave")
 
 #----------------------------------------------------------------------#
-#4 - Unir uniao com gastos com saúde:
+#4 - Unir uniao com gastos com saÃºde:
 
 gastos = read.csv("base_gastos.csv")
 
@@ -515,7 +515,7 @@ uniao %<>%
 uniao = left_join(uniao, gastos, by = "Chave")
 
 #----------------------------------------------------------------------#
-#5 - Unir uniao com gastos com saúde:
+#5 - Unir uniao com gastos com saÃºde:
 
 consultas = read.csv("base_consultas.csv")
 
@@ -562,7 +562,7 @@ uniao %<>%
 uniao = left_join(uniao,idhm, by = "Chave")
 
 #----------------------------------------------------------------------#
-#Criando a variável Regiao:
+#Criando a variÃ¡vel Regiao:
 uniao %<>% mutate (REGIAO = case_when(Codigo_UF %in% 11:17 ~ "1",
                                       Codigo_UF %in% 21:29 ~ "2",
                                       Codigo_UF %in% 31:35 ~ "3",
@@ -570,20 +570,20 @@ uniao %<>% mutate (REGIAO = case_when(Codigo_UF %in% 11:17 ~ "1",
                                       Codigo_UF %in% 50:53 ~ "5"))
 #----------------------------------------------------------------------#
 #Foi observardo que os dados da PROADESS de 2018 apresentarem
-#inconsistências, portanto foi necessário substitui-los pelos dados
+#inconsistÃªncias, portanto foi necessÃ¡rio substitui-los pelos dados
 #fornecidos diretamente pelo SINAN
 
-#Importando o arquivo de incidência de sífilis em 2018 do SINAN
+#Importando o arquivo de incidÃªncia de sÃ­filis em 2018 do SINAN
 br_2018 = read.csv("2018.csv", sep = ";",row.names = NULL, skip = 3) %>%
   as_tibble()
 
 br_2018 %<>%
-  mutate(Codigo_Mun = as.numeric(substr(Município.de.residência,1, 6))) %>%
-  select(-Município.de.residência)
+  mutate(Codigo_Mun = as.numeric(substr(MunicÃ­pio.de.residÃªncia,1, 6))) %>%
+  select(-MunicÃ­pio.de.residÃªncia)
 
-#Filtrando na base uf os dados apenas de 2018. Isso é necessário pois a base
-#do SINAN não fornece os municipios com nenhum caso. Dessa forma, precisa-se
-#descobrir quais municipios não estão presentes na base do SINAN e inputar
+#Filtrando na base uf os dados apenas de 2018. Isso Ã© necessÃ¡rio pois a base
+#do SINAN nÃ£o fornece os municipios com nenhum caso. Dessa forma, precisa-se
+#descobrir quais municipios nÃ£o estÃ£o presentes na base do SINAN e inputar
 #o valor de 0 casos. 
 uniao_2018 = uniao %>%
   filter(Ano == 2018) 
