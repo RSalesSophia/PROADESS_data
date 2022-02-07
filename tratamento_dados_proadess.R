@@ -328,7 +328,7 @@ consultas %<>%
 #Removendo linhas relativas a regioes, brasil e estados
 #Regioes, Estados e do Brasil
 Estados = c("Minas Gerais","Acre","Alagoas","Amazonas","Bahia",
-            "Ceará","Espírito Santo","Goiás","Maranhao","Mato Grosso",
+            "Ceará","Espírito Santo","Goiás","Maranhão","Mato Grosso",
             "Mato Grosso do Sul","Minas Gerais","Pará","Paraíba", 
             "Paraná","Pernambuco" ,"Piauí" ,"Rio Grande do Norte",
             "Rio Grande do Sul" ,"Rondônia","Roraima","Santa Catarina",
@@ -343,7 +343,7 @@ consultas %<>%
              (V1 == "Norte" & V2 == "24,8") |
              (V1 == "Sudeste" & V2 == "52,5") |
              (V1 %in% Estados) |
-             (V1 == "Sao Paulo" & V2 == "54,5") |
+             (V1 == "São Paulo" & V2 == "54,5") |
              (V1 == "Amapá" & V2 == "22,0") |
              (V1 == "Rio de Janeiro" & V2 == "56,6")))
 
@@ -393,7 +393,7 @@ esf %<>%
              (V1 == "Norte" & V2 == "15,0") |
              (V1 == "Sudeste" & V2 == "9,9") |
              (V1 %in% Estados) |
-             (V1 == "Sao Paulo" & V2 == "5,3") |
+             (V1 == "São Paulo" & V2 == "5,3") |
              (V1 == "Amapá" & V2 == "2,8") |
              (V1 == "Rio de Janeiro" & V2 == "8,0")))
 
