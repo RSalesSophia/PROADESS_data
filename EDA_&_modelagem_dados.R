@@ -7,15 +7,15 @@ library(magrittr)
 library(pglm)
 
 
-#ConfiguraÁoes 
+#Configura√ßoes 
 windowsFonts(Times=windowsFont("TT Times New Roman"))
 options(OutDec= ",")
 
 #Importando o arquivo uniao:
 uniao = read.csv("base_uniao.csv")
 
-#Criando um grafico de linhas que mostra as informaÁoes relativas
-#a variaÁao da taxa de incidiencia ao longo dos anos no Brasil e nas
+#Criando um grafico de linhas que mostra as informa√ßoes relativas
+#a varia√ßao da taxa de incidiencia ao longo dos anos no Brasil e nas
 #regioes
 
 #Para isso, primeiro cria-se uma tabela calculando a taxa de incidencia
@@ -51,7 +51,7 @@ df %<>%
          REGIAO = as.factor(REGIAO))
 
 
-#Tipo de linhas: a intenÁao aqui È deixar a linha do Brasil diferentes
+#Tipo de linhas: a inten√ßao aqui √© deixar a linha do Brasil diferentes
 #das outras regioes
 
 line_types <- c("Brasil" = 2, "Centro-Oeste"  = 1, "Sudeste" = 1,
@@ -62,7 +62,7 @@ colors <- c("Brasil" = "black", "Centro-Oeste" = "#00AFBB", "Sudeste" = "#ED553B
             "Sul" = "#52854C", "Nordeste" =  "#173F5F", "Norte" = "#F6D55C")
 
 
-#Gr·fico de linhas:
+#Gr√°fico de linhas:
 gf = ggplot(df, aes(x = Ano, y = Total_Incidencia, colour = REGIAO,
                linetype = REGIAO)) + 
   geom_line(aes(colour = REGIAO, group = REGIAO)) +
@@ -74,13 +74,13 @@ gf = ggplot(df, aes(x = Ano, y = Total_Incidencia, colour = REGIAO,
   theme(text=element_text(size=24,  family="serif")) +
   theme(legend.title=element_blank())
 
-#Para visualizar os n˙meros das taxas de incidencia de 2009 e 2018,
+#Para visualizar os n√∫meros das taxas de incidencia de 2009 e 2018,
 #faz necessario a criacao de tabelas que contem apenas essas informacoes
 inf_ultima = df %>%
   filter(Ano == 2018)
 
 #Na informacao relacao relativa a brasil de 2018, nao aparece de forma
-#regular apenas um dÌgito, para solucionar isso:
+#regular apenas um d√≠gito, para solucionar isso:
 
 inf_ultima %<>%
   mutate(Total = formatC(inf_ultima$Total_Incidencia, format="f", digits=1))
@@ -106,8 +106,8 @@ gf +
   
 dev.off()   
 #---------------------------------------------------------------------------#
-#Criando variaveis para definir grupos tendo como par‚metro o valor mediano
-#da vari·vel analisado tendo em vista cada ano
+#Criando variaveis para definir grupos tendo como par√¢metro o valor mediano
+#da vari√°vel analisado tendo em vista cada ano
 uniao %<>%
   group_by(Ano) %>%
   mutate(GASTOS_med = if_else(Gastos_defla > median(Gastos_defla, na.rm =  T), 1,0),
@@ -120,7 +120,7 @@ uniao %<>%
          REND_mediana = if_else(Renda_med >= median(Renda_med, na.rm = T), 1,0))
 
 
-#EstatÌstica descritiva relativo a mediana das vari·veis:
+#Estat√≠stica descritiva relativo a mediana das vari√°veis:
 uniao %>% 
   group_by(Ano) %>%
   summarise(Gastos_med = across(Gastos_defla, median, na.rm = TRUE),
@@ -131,14 +131,14 @@ uniao %>%
 
 
 
-#Taxa de incidencia a partir de determinadas caracterÌsticas:
+#Taxa de incidencia a partir de determinadas caracter√≠sticas:
 #Exemplo: PRE_med
 uniao %>%
   group_by(Ano, PRE_med) %>%
   summarise(Total_Incidencia = (sum(Casos_Sifilis, na.rm = T)/(sum(Nascidos_Vivos, na.rm = T)))*1000) %>%
   drop_na()
 #----------------------------------------------------------------------------#
-#Modelo econometrico adequado a contagem de incidencia de sÌfilis
+#Modelo econometrico adequado a contagem de incidencia de s√≠filis
 #Modelo de Poisson tendo em vamos trabalhar com dados em painel:
 
 data_painel = pdata.frame(uniao, index = c("Codigo_Mun", "Ano"), 
@@ -174,5 +174,5 @@ AIC(reg_poison)
 AIC(reg_red)
 
 #Dado o valor do AIC tem-se que o modelo completo apresenta um melhor
-#melhor ajuste para os dados em comparaÁao ao modelo reduzido
+#melhor ajuste para os dados em compara√ßao ao modelo reduzido
 
