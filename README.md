@@ -2,7 +2,7 @@
 
 Esse repositório possui dois scripts em R, sendo um referente ao tratamento de dados e outro relativo as estatísticas descritivas e a modelagem dos dados. 
 
-Utilizou-se dados fornecidos pelo PROADESS (Projeto de Avaliação do Desempenho do Sistema de Saúde), CENSO de 2000 e 2010 do IBGE e TabNET do DataSUS. 
+Utilizou-se dados fornecidos pelo Projeto de Avaliação do Desempenho do Sistema de Saúde (PROADESS), CENSO de 2000 e 2010 do IBGE e TabNET do DataSUS. 
 
 #### 1. Problema
 <hr class="style1">
