@@ -12,5 +12,9 @@ Analisar a incidência de sífilis congênita nos municípios brasileiros e sua 
 #### 2. Solução estratégica
 <hr class="style1">
 
-Utilizou-se um modelo de Poisson de dados em painel com efeitos fixos, com a variável dependente incidência de casos de sífilis congênita e as variáveis dependentes renda per capita domiciliar, IDHM, taxa de analfabetismo, despesas municipais com saúde per capita, cobertura da Estratégia da Saúde da Família e percentual de mães com seis ou mais consultas de pré-natal estratificadas a partir de da mediana dos dados. 
+Utilizou-se um modelo de *Poisson* de dados em painel com efeitos fixos, em que a variável dependente corresponde a incidência de casos de sífilis congênita e as variáveis dependentes correspondem a renda per capita domiciliar, IDHM, taxa de analfabetismo, despesas municipais com saúde per capita, cobertura da Estratégia da Saúde da Família e percentual de mães com seis ou mais consultas de pré-natal estratificadas a partir de da mediana dos dados. 
 
+#### 3. Resultados
+<hr class="style1">
+
+Observou-se que os municípios com maior IDHM e cobertura da estratégia da saúde da família apresentaram maiores taxas de incidência de sífilis congênita. Por outro lado, municípios com maiores despesas com saúde e maior percentual de 6 consultas no pré-natal têm maior sucesso na redução da taxa de incidência.
